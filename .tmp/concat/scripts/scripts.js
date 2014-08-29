@@ -42,7 +42,7 @@ angular.module('chfSitesApp').controller('MainCtrl', [
       'AngularJS',
       'Karma'
     ];
-    $scope.meals = '000,' + '467,016';
+    $scope.meals = '000,' + '484,298';
     $scope.incredibleList = [
       {
         'name': 'Santa Fe Christian',

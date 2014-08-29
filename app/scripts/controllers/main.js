@@ -15,7 +15,7 @@ angular.module('chfSitesApp')
       'Karma'
     ];
 
-    $scope.meals = '000,' + '467,016';
+    $scope.meals = '000,' + '484,298';
 
     $scope.incredibleList =
 
